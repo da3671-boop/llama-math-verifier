@@ -13,6 +13,7 @@ outputs/
 *.tar.gz
 drive/
 .env
+*.sh
 
 # We still WANT to keep the final submission csv
 submission/*
