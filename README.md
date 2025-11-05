@@ -6,4 +6,6 @@
 
 
 Note: Experiment 1 and 3 corresponds to the code used for the final Kaggle submission.
+**Experiment 3 is our final submission with private score of 0.82203**
+
 
